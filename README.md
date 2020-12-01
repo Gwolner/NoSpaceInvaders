@@ -2,3 +2,4 @@
 
 > Jogo arcade de nave 2D desenvolvido com Java SE onde é utilizado o Design Patterns Strategy para atribuir comportamentos distintos de forma dinâmica aos disparos da nave.
 
+<img src="img/navearcade.gif" align="center"/>
